@@ -1,0 +1,18 @@
+/*resert do css*/
+*{
+	margin: 0px, border: none; display: block;
+}
+/*css dos textos!*/
+.textos {
+    text-align: center;
+	margin:0 auto;
+	margin-top:0%;
+	width:49%;
+	height:200px;
+}
+/*css da imagem!*/
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
